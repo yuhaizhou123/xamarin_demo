@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\xamarin\xamarin\bin\Debug\netstandard2.0\xamarin.deps.json
+C:\Users\1\source\repos\xamarin\xamarin\bin\Debug\netstandard2.0\xamarin.dll
+C:\Users\1\source\repos\xamarin\xamarin\bin\Debug\netstandard2.0\ref\xamarin.dll
+C:\Users\1\source\repos\xamarin\xamarin\bin\Debug\netstandard2.0\xamarin.pdb
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\xamarin.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\xamarin.AssemblyInfo.cs
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\xamarin.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\xamarin.dll
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\ref\xamarin.dll
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\xamarin.pdb
+C:\Users\1\source\repos\xamarin\xamarin\obj\Debug\netstandard2.0\xamarin.csprojAssemblyReference.cache
