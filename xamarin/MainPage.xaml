@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.MainPage"
+             Title="登录">
+    <StackLayout VerticalOptions="Center" Margin="20">
+        <Image Source="Images/11.jpg"
+                Aspect="Fill"
+                x:Name="ififi"
+                HeightRequest="{OnPlatform iOS=300, Android=250}"
+               WidthRequest="{OnPlatform iOS=300, Android=250}"
+               HorizontalOptions="Center"
+               />
+        <Label Text="登录"   
+               FontSize="50"
+               FontAttributes="Bold" />
+        <Entry x:Name="editor"
+                Placeholder="账号 user"
+               Text="user"
+                HeightRequest="50"
+                WidthRequest="100"/>
+        <Entry x:Name="password"
+                Placeholder="密码 111"
+                HeightRequest="50"
+                IsPassword="true"
+               Text="111"
+                WidthRequest="100"/>
+        <Button
+            x:Name="login_btn"
+            Text="登录"
+            TextColor="#fff"
+            FontSize="26"
+            BackgroundColor="ForestGreen"
+            Clicked="Login_do"/>
+        <Button
+            x:Name="gengduo_btn"
+            Text="更多选项"
+            Clicked="Gengduo_do"/>
+    </StackLayout>
+</ContentPage>
